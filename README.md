@@ -1,4 +1,4 @@
-# 💌 Valentines Day Proposal Website
+#  Valentines Day Proposal Website
 
 A custom interactive web experience to propose to someone special on Valentine’s Day. This project combines modern web tooling (React + Vite + Tailwind CSS) to deliver a responsive, personalized proposal page that you can customize and share. 
 
@@ -9,7 +9,7 @@ Live demo: https://valentines-day-ashen-theta.vercel.app
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [About](#about)
 - [Features](#features)
@@ -23,11 +23,10 @@ Live demo: https://valentines-day-ashen-theta.vercel.app
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [Credits](#credits)
-- [License](#license)
 
 ---
 
-## 🧠 About
+##  About
 
 This repository contains the source code for a **Valentine’s Day Proposal Website** — a thoughtful and visually appealing page you can customize to deliver a romantic message or proposal online.
 
@@ -35,13 +34,13 @@ It’s built using **React**, powered by **Vite** for fast development and bundl
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🖥️ **Responsive design** — Works smoothly on both mobile and desktop.
-- 🎨 **Tailwind-based style system** for easy UI customization.
-- 💡 **Interactive UI elements** — animated hearts, buttons, transitions.
-- 📤 **Custom message** — Change text content to personalize your own message.
-- 📦 Simple project structure for easy expansion.
+-  **Responsive design** — Works smoothly on both mobile and desktop.
+-  **Tailwind-based style system** for easy UI customization.
+-  **Interactive UI elements** — animated hearts, buttons, transitions.
+-  **Custom message** — Change text content to personalize your own message.
+-  Simple project structure for easy expansion.
 
 ---
 
@@ -58,7 +57,7 @@ This project uses the following technologies:
 
 ---
 
-## 🧩 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -101,7 +100,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view your
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Once the server is running:
 
@@ -111,7 +110,7 @@ Once the server is running:
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 To update your message and style:
 
@@ -128,7 +127,7 @@ Consider adjusting:
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 This project is ready for deployment. You can host it on platforms like **Vercel**, **Netlify**, or **GitHub Pages**.
 
@@ -140,7 +139,7 @@ Example (Vercel):
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions — whether code improvements, styling, or new features — are welcome:
 
@@ -154,27 +153,21 @@ Please ensure your changes follow the code style and project structure.
 
 ---
 
-## 🎯 Roadmap
+##  Roadmap
 
 You can expand this project further with ideas like:
 
-* 💍 Countdown to proposal date
-* 🎵 Background music or audio message
-* 📸 Photo gallery
-* 📝 Custom message templates
+*  Countdown to proposal date
+*  Background music or audio message
+*  Photo gallery
+*  Custom message templates
 
 ---
 
-## 🧑‍💻 Credits
+## Credits
 
 * React & Vite Starter (default template)
 * Tailwind CSS for styling utilities
-* Inspiration from romantic proposal web examples and templates ([GitHub][2])
+* Inspiration from romantic proposal web examples and templates
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-```
