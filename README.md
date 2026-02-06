@@ -4,6 +4,9 @@ A custom interactive web experience to propose to someone special on Valentineâ€
 
 Live demo: https://valentines-day-ashen-theta.vercel.app
 
+<img width="1366" height="652" alt="image" src="https://github.com/user-attachments/assets/d1a2a535-dc7d-4ad6-9892-27d84eeff98c" />
+
+
 ---
 
 ## ðŸ“Œ Table of Contents
