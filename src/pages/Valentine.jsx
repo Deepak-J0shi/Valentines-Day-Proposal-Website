@@ -25,7 +25,7 @@ export default function Valentine() {
         />
 
         <h1 className="text-4xl md:text-5xl font-bold text-pink-600 mb-4">
-          Happy Valentine’s Day
+          Happy Valentine’s Day Mera Bacha 💗
         </h1>
 
         <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
@@ -34,7 +34,7 @@ export default function Valentine() {
         </p>
 
         <p className="mt-6 text-pink-500 font-medium text-lg">
-          Forever starts with this moment ❤️
+         I LOVE YOU SOOOO MUCHHH MOREE BACHAA 💗
         </p>
       </div>
     </div>
